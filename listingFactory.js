@@ -13,7 +13,7 @@ angular.module('listings').factory('Listings', function() {
         {
             "code": "AGRL", 
             "name": "Plant Pathology Research Lab 2"
-        }, 
+        },  
         {
             "code": "AND", 
             "name": "Anderson Hall", 
